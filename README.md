@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=&color=3FF7B2&multiline=true&width=1000&height=100&lines=Hello+Here+is+leadlife%EF%BC%8Ccome+!+Let's+lead+your+life;Blog%EF%BC%9Ahttps%3A%2F%2Ftripse.github.io%2F)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
