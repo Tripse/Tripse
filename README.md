@@ -12,7 +12,7 @@
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://tripse.github.io/)
+Apart from coding, I also maintain a blog - you can find my articles on my website at [tripse.github.io](https://tripse.github.io/)
 
 A sample of my recent articles:
 
