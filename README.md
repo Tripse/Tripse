@@ -1,8 +1,7 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=&color=3FF7B2&multiline=true&width=1000&height=100&lines=Hello+Here+is+leadlife%EF%BC%8Ccome+!+Let's+lead+your+life;Blog%EF%BC%9Ahttps%3A%2F%2Ftripse.github.io%2F)
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -10,11 +9,11 @@
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 
 
-## &#x270d; Blog & Writing
+## Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [tripse.github.io](https://tripse.github.io/)
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tripse&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
